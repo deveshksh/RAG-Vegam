@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+PyPDF2
+pytesseract
+whisper
+faiss-cpu
+Pillow
+scikit-learn
+python-docx
