@@ -41,6 +41,8 @@ This architecture outlines a system for document retrieval, preprocessing, embed
             ↓
    Response Generation (User Query Answer)
 
+```
+
 
 ## Features
 - Supports text, audio, video, and image data.
